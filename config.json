@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-11T08:03:23.150Z",
+  "lastUpdate": "2025-12-11T17:17:12.688Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -15,6 +15,20 @@
       "encryptedPassword": "a36011ca958c13bf3085e07df6108259fb92cdc611b162bc0d12f67772f8a194",
       "passwordIv": "9790db8fbdfffac965689711",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
+    },
+    {
+      "id": "mj1pa6ev7fwes76jpij9nr8jc2dpx",
+      "name": "Capcut",
+      "url": "https://www.capcut.com/es-es/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmy-edit",
+      "urls": [
+        "https://www.capcut.com/es-es/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmy-edit"
+      ],
+      "salt": "56284fbf4c365293100dd10c16b0cc3a",
+      "encryptedUsername": "bac7fc54d7cb95f95e02dd265221130f2ebe9ecc73b6d5e6e04b97b889a653",
+      "usernameIv": "855fc79017dd2a6cd9d4348b",
+      "encryptedPassword": "69a66427e9c45096da885f5c1a3f42670153e343681d4490",
+      "passwordIv": "02f60b153f4ca92608e05882",
+      "encryptionKey": "dc578ef29b7a2ee4715a6884027b3b41cc556b46763cced27963ca4e56e7dc6b"
     }
   ]
 }
