@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2025-12-11T08:03:23.150Z",
+  "profiles": [
+    {
+      "id": "mj156t30mo5z8sq05o7ifch3s402qo",
+      "name": "runway",
+      "url": "https://app.runwayml.com/v",
+      "urls": [
+        "https://app.runwayml.com/v"
+      ],
+      "salt": "f88b74b9e35f55f97e1b038080523b24",
+      "encryptedUsername": "561eb5b300592c650e1fad2c6a8c7313ad14adb022d781f8394d0f5e694159d1109b18e596536b8021de33ba50e0230b",
+      "usernameIv": "9268d98a534048412142ba43",
+      "encryptedPassword": "a36011ca958c13bf3085e07df6108259fb92cdc611b162bc0d12f67772f8a194",
+      "passwordIv": "9790db8fbdfffac965689711",
+      "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
+    }
+  ]
+}
