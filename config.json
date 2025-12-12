@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T19:06:32.080Z",
+  "lastUpdate": "2025-12-12T19:09:07.664Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T19:06:32.080Z"
+      "updatedAt": "2025-12-12T19:09:07.664Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:00.421Z",
-      "updatedAt": "2025-12-12T19:06:32.080Z"
+      "updatedAt": "2025-12-12T19:09:07.664Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T19:06:32.080Z"
+      "updatedAt": "2025-12-12T19:09:07.664Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -100,32 +100,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:27.726Z",
-      "updatedAt": "2025-12-12T19:06:32.080Z"
-    },
-    {
-      "id": "mj33x5vtcnqih11i7sl9dq6bddo5wf",
-      "name": "CHATGPT 1 - ads nuevo",
-      "url": "chatgpt.com",
-      "urls": [
-        "chatgpt.com"
-      ],
-      "salt": "bbf9bd605a22549460d1be3a99d04b2f",
-      "encryptedUsername": "ef0c4fe0a7b356fa4c23631d6ed110824f70412da3ac440bcdccfc7edd63f0fd5defbe",
-      "usernameIv": "636a2f974fac3b3a4527cded",
-      "encryptedPassword": "3f5054a24440e7805ec01ec1d740e275f1b2a6d02587c00d169de952",
-      "passwordIv": "6d19457d3f3fa4735b8446b2",
-      "encryptionKey": "165bf3ad49a49f6125741510ead8cdc13a8691a53e837440ea33466c256afb34",
-      "tools": [
-        "chatgpt"
-      ],
-      "category": "ia",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": "YDLACTRRH7S2NBLAXDDXFBREYQJPED2H",
-      "authDomains": [],
-      "globalProfileId": null,
-      "createdAt": "2025-12-12T19:02:23.824Z",
-      "updatedAt": "2025-12-12T19:06:32.080Z"
+      "updatedAt": "2025-12-12T19:09:07.664Z"
     }
   ]
 }
