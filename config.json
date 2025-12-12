@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T03:08:58.772Z",
+  "lastUpdate": "2025-12-12T03:23:37.870Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -9,11 +9,11 @@
       "urls": [
         "https://app.runwayml.com/v"
       ],
-      "salt": "20623fc7493864245891361dd4eab1ec",
-      "encryptedUsername": "9e717f8e1828651cf78591a756937f8e6f405efe0c93c07e90a3f77bb53ba774baac97d006407e6a6267c7804eecb05b",
-      "usernameIv": "67a2ac92cd307156468645fc",
-      "encryptedPassword": "770012aebdfb1ea41ec1ded9961daeb2b587854ddece1e7aba1b3a44ab5c3856",
-      "passwordIv": "d5b90e796fde5199b7bd5da4",
+      "salt": "b1737ae6b833b05034b712dc011ed167",
+      "encryptedUsername": "f2e401b9e26899d7fb784b3a978c58f09bed3ac38dda930f0d6e8ecad236a6b2b9dc1b81738584c8e8cfa1be31062c69",
+      "usernameIv": "0bec90f1e9cd1f60519fd091",
+      "encryptedPassword": "19c39ce8bfee5d62187c2f1a9c4ef3cda147a9b207f0c6e9c4b27fed23d75477",
+      "passwordIv": "f28d6b0306ce34412de39b61",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
     },
     {
@@ -57,6 +57,20 @@
       "encryptedPassword": "246785b0910b348560dcd7537aad78517316267582d798ad39ebed1fe0",
       "passwordIv": "9b12cd6f1f823e1f56b48073",
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
+    },
+    {
+      "id": "mj2aqref2xzkpzjoboqy57o4fy6rbg",
+      "name": "CAPCUT PRO 3",
+      "url": "https://www.capcut.com/es-es/login",
+      "urls": [
+        "https://www.capcut.com/es-es/login"
+      ],
+      "salt": "e13ac161981b24801c93697914878a72",
+      "encryptedUsername": "b468e745a10173041e6b404b09cc4058fad2c13842378f727d50edcfaf46b0a9",
+      "usernameIv": "04302e3a7fee55a77ecfe40d",
+      "encryptedPassword": "f7da1b876db4883f8e9d380d9883f59756d86af6dd5f47af",
+      "passwordIv": "da55511b36d63aa102fff5a5",
+      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
     }
   ]
 }
