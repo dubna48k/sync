@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T22:55:57.932Z",
+  "lastUpdate": "2025-12-12T23:34:19.237Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:00.421Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -84,11 +84,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "4c5e5a80f96cc34d1332be658193304e",
-      "encryptedUsername": "4931c1b1ec5da5b7724e48e98c54e5a696ee0fef24769abec6a3a7c25f5b0ee8",
-      "usernameIv": "54b5d931d1abf91573b8d6bd",
-      "encryptedPassword": "49fe8c02bbe91b2fd74313f43b7e8ff59fe54428a47b00b0",
-      "passwordIv": "2ee57da59ed8b08ac5bb3b34",
+      "salt": "69e1c289c838e91d919e5541f227804e",
+      "encryptedUsername": "911b3b1534987aa5e69d27347acb943fecf4fb93fe090baf49f9c463b28ffd",
+      "usernameIv": "bc957302b450386191cbb5cb",
+      "encryptedPassword": "a7a2eb4118ebb2f30a3fcec25dc9cbae5726e0c83f8e00ee",
+      "passwordIv": "4b56ef69e2a6fa6941501109",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
       "tools": [
         "capcut"
@@ -99,8 +99,8 @@
       "totpSecret": null,
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T19:06:27.726Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "createdAt": "2025-12-12T23:32:56.175Z",
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -125,7 +125,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T20:09:20.396Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj3cz80yyk9el8g2eq6hsathwbtux",
@@ -134,11 +134,11 @@
       "urls": [
         "https://chatgpt.com/"
       ],
-      "salt": "5281e7de6bd5b77b3c5dff58e378bbfd",
-      "encryptedUsername": "8957e430ffe11f91a8b350a51f607a715ccf63143767ca6726a0c00285c016d3724c6c8807b99eab7aafedeb298b79",
-      "usernameIv": "07d68cc6e75d941595ebdeea",
-      "encryptedPassword": "5634dfe2210be611ab3f30dd6d79ce773ecb1c7354fd618b8a5b49e669136948d3",
-      "passwordIv": "b649874c58417ffedbce5e88",
+      "salt": "b0b3d4101006b5e7760f697f763ccd83",
+      "encryptedUsername": "8a2d4a301c9d9d16625a616e9c90e4b7923f49eef99d2ccf3e7d91768053015cca357b5f1c5686660fe2f08b578536",
+      "usernameIv": "500bded379cf1034bf9fa0ad",
+      "encryptedPassword": "f518a5fca1522589f9018582d5e93e3c29ad677ae1b3ed7548b7dceddabb98be80",
+      "passwordIv": "2e28570ab45a5a8e450fe890",
       "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
       "tools": [
         "chatgpt"
@@ -149,8 +149,8 @@
       "totpSecret": "3JAU6Q3VAM4SS6PFI7KQ4Y3RMUXNX2RJ",
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T22:54:18.433Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "createdAt": "2025-12-12T23:34:02.911Z",
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     },
     {
       "id": "mj3e6zgtzjbpy9hhv4m84sfn6edhi",
@@ -159,11 +159,11 @@
       "urls": [
         "https://chatgpt.com/"
       ],
-      "salt": "0418a86b561f5eed25c60627cd924e9d",
-      "encryptedUsername": "5180f5cbf706bb78fd103ab9d2c05cd32cbd3e0fc04aa71c39fdf8c88f1a832ea34ffde92b6c307bf278f83709b450bc",
-      "usernameIv": "57a95181813fbb720307f47f",
-      "encryptedPassword": "5ef6eec768564bb481d4e4ca713670ee1a13a868e19847ff956c6d8b99",
-      "passwordIv": "26c6ed64bd4e85b28a540eb7",
+      "salt": "0b28f2d7155fbf9abf6f1dc9028341fb",
+      "encryptedUsername": "29cb5a36a939fca5bd84ee0200f8e66fa14382e10bebab66541a165f8a0edf3a789726f4ed1af4d2961b603c1f27fdae",
+      "usernameIv": "8872306d4360e10406789dfb",
+      "encryptedPassword": "000803410bf0c7be3ca086e4f808e636659f6828f2e548519b9ce6176a",
+      "passwordIv": "cbde9fb4bb8f8eb238cde5cd",
       "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
       "tools": [
         "chatgpt"
@@ -174,8 +174,8 @@
       "totpSecret": "676BKOR2D4LL2KDNCBWQ5DCNS7ZF4ITU",
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T22:54:08.244Z",
-      "updatedAt": "2025-12-12T22:55:57.933Z"
+      "createdAt": "2025-12-12T23:34:16.226Z",
+      "updatedAt": "2025-12-12T23:34:19.237Z"
     }
   ]
 }
