@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T02:42:26.212Z",
+  "lastUpdate": "2025-12-12T03:08:58.772Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -9,11 +9,11 @@
       "urls": [
         "https://app.runwayml.com/v"
       ],
-      "salt": "f88b74b9e35f55f97e1b038080523b24",
-      "encryptedUsername": "561eb5b300592c650e1fad2c6a8c7313ad14adb022d781f8394d0f5e694159d1109b18e596536b8021de33ba50e0230b",
-      "usernameIv": "9268d98a534048412142ba43",
-      "encryptedPassword": "a36011ca958c13bf3085e07df6108259fb92cdc611b162bc0d12f67772f8a194",
-      "passwordIv": "9790db8fbdfffac965689711",
+      "salt": "20623fc7493864245891361dd4eab1ec",
+      "encryptedUsername": "9e717f8e1828651cf78591a756937f8e6f405efe0c93c07e90a3f77bb53ba774baac97d006407e6a6267c7804eecb05b",
+      "usernameIv": "67a2ac92cd307156468645fc",
+      "encryptedPassword": "770012aebdfb1ea41ec1ded9961daeb2b587854ddece1e7aba1b3a44ab5c3856",
+      "passwordIv": "d5b90e796fde5199b7bd5da4",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
     },
     {
@@ -23,11 +23,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "6e21d0bbe2c9002b7552dc30a773e5e8",
-      "encryptedUsername": "5445f61f267f03795542a627fb1ba4ca2616d193f0fbda8909a23c379c827605",
-      "usernameIv": "ab5264ba9e8652fcac61dfd7",
-      "encryptedPassword": "8b6fa6290eb6cdcabf0c72829f568a55f0e9a2337b5857",
-      "passwordIv": "74630b2df0273c0d61fdf7da",
+      "salt": "2edfdc9678ec165b2d0f93472894935b",
+      "encryptedUsername": "df151432f852cb8b4e15d89f72fb76ed6dce66e26e275ed888c227e2fb7908b0",
+      "usernameIv": "01fa70ad3b50335942a91b8e",
+      "encryptedPassword": "40d99200d2f3210fd34464e2fa20dc4af29d0dd54499e4",
+      "passwordIv": "97063c23c658e7942fd7636a",
       "encryptionKey": "d5b082c7c3e1a2ebc800c9d85eae74f69eb7d3f1b74eecac72526756cf50955a"
     },
     {
@@ -37,11 +37,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "f69376d2c1879f8f42eb4d345600f8bc",
-      "encryptedUsername": "84268f78f360ec326bbe6d4548bda138f077ad1e5be6006654314abc4b123f79",
-      "usernameIv": "f9e5affbccb88ac1faaf8b6e",
-      "encryptedPassword": "8f3fea8e641d4a48cb3b4ad89fd25d4fd28f711b1a3b3086",
-      "passwordIv": "7326a20e88ee0899af6fd609",
+      "salt": "785aecfa8fb5509e10cb07ef2e07787e",
+      "encryptedUsername": "4b98396ca51900053d63a865d2ae51655f519c6e51dfdfce1ff1341d14059923",
+      "usernameIv": "34466119425a55476602008e",
+      "encryptedPassword": "8bb767b8e7efdec42550a83c918b8dce0683e0a0cffb584b",
+      "passwordIv": "d45adfee880ff448d2ee12cf",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
     },
     {
@@ -51,11 +51,11 @@
       "urls": [
         "https://gamma.app/"
       ],
-      "salt": "741a2230a2fe435b3b04773159613fc2",
-      "encryptedUsername": "fbb7554101de5cb5fc93675dcf4156a5b86e0407d94be26bc0c5803790063672f3a3f1e74961",
-      "usernameIv": "d90c2e1e75ee0af574cd3bfc",
-      "encryptedPassword": "57427535a39e5600838835f646759cd25412d4ce013c76a7b48d47b492",
-      "passwordIv": "741d4704e0b61d531980c645",
+      "salt": "0fe7d54adc30b4722f6c41461a8c3785",
+      "encryptedUsername": "b8984fb4ecbe93e407d052732e0d1e1a69d42f6b32886ed9f71a8759eb45683c033de7de5fc0",
+      "usernameIv": "bc492aff1e71f6a08ec4caec",
+      "encryptedPassword": "246785b0910b348560dcd7537aad78517316267582d798ad39ebed1fe0",
+      "passwordIv": "9b12cd6f1f823e1f56b48073",
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
     }
   ]
