@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T04:51:56.292Z",
+  "lastUpdate": "2025-12-12T05:48:36.767Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -24,7 +24,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T04:51:56.292Z"
+      "updatedAt": "2025-12-12T05:48:36.767Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -48,7 +48,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:48:29.183Z",
-      "updatedAt": "2025-12-12T04:51:56.292Z"
+      "updatedAt": "2025-12-12T05:48:36.767Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -72,7 +72,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T04:51:56.292Z"
+      "updatedAt": "2025-12-12T05:48:36.767Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -96,7 +96,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:50:35.192Z",
-      "updatedAt": "2025-12-12T04:51:56.292Z"
+      "updatedAt": "2025-12-12T05:48:36.767Z"
     }
   ]
 }
