@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T02:06:43.843Z",
+  "lastUpdate": "2025-12-12T02:42:26.212Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -23,11 +23,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "4a1c41b7db1ebc59f92cd7bbe1c6e873",
-      "encryptedUsername": "2d6f77710d1df025635b06c95203a66f7826a85747247a210f560f481c4d720a",
-      "usernameIv": "95060e525424adc6839773d3",
-      "encryptedPassword": "311b63f15528e361658296b2bbc6548759f64c37a7076c",
-      "passwordIv": "37774e4569d33c16c6e49614",
+      "salt": "6e21d0bbe2c9002b7552dc30a773e5e8",
+      "encryptedUsername": "5445f61f267f03795542a627fb1ba4ca2616d193f0fbda8909a23c379c827605",
+      "usernameIv": "ab5264ba9e8652fcac61dfd7",
+      "encryptedPassword": "8b6fa6290eb6cdcabf0c72829f568a55f0e9a2337b5857",
+      "passwordIv": "74630b2df0273c0d61fdf7da",
       "encryptionKey": "d5b082c7c3e1a2ebc800c9d85eae74f69eb7d3f1b74eecac72526756cf50955a"
     },
     {
@@ -43,6 +43,20 @@
       "encryptedPassword": "8f3fea8e641d4a48cb3b4ad89fd25d4fd28f711b1a3b3086",
       "passwordIv": "7326a20e88ee0899af6fd609",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
+    },
+    {
+      "id": "mj29hcx206ukecun84wf8pfabvfceg",
+      "name": "Gamma",
+      "url": "https://gamma.app/",
+      "urls": [
+        "https://gamma.app/"
+      ],
+      "salt": "741a2230a2fe435b3b04773159613fc2",
+      "encryptedUsername": "fbb7554101de5cb5fc93675dcf4156a5b86e0407d94be26bc0c5803790063672f3a3f1e74961",
+      "usernameIv": "d90c2e1e75ee0af574cd3bfc",
+      "encryptedPassword": "57427535a39e5600838835f646759cd25412d4ce013c76a7b48d47b492",
+      "passwordIv": "741d4704e0b61d531980c645",
+      "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
     }
   ]
 }
