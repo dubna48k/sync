@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T03:23:37.870Z",
+  "lastUpdate": "2025-12-12T03:57:34.389Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -9,26 +9,12 @@
       "urls": [
         "https://app.runwayml.com/v"
       ],
-      "salt": "b1737ae6b833b05034b712dc011ed167",
-      "encryptedUsername": "f2e401b9e26899d7fb784b3a978c58f09bed3ac38dda930f0d6e8ecad236a6b2b9dc1b81738584c8e8cfa1be31062c69",
-      "usernameIv": "0bec90f1e9cd1f60519fd091",
-      "encryptedPassword": "19c39ce8bfee5d62187c2f1a9c4ef3cda147a9b207f0c6e9c4b27fed23d75477",
-      "passwordIv": "f28d6b0306ce34412de39b61",
+      "salt": "3bee6289076a34d3c8200650d3768e01",
+      "encryptedUsername": "fd2864f88124f1c324406dfe4e69c342afd7d09f29786d1e5020035975d73718d273008baee68c83f7f80dd9be9bca4c",
+      "usernameIv": "8b32fc3315cffd566eeee305",
+      "encryptedPassword": "4083abc791f119ebc03394f20864956c0cfde8886640d3460f816174775a9dca",
+      "passwordIv": "894932d81b6548debcdf3e28",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
-    },
-    {
-      "id": "mj1z87lycxkxx2f377egk98bq89z",
-      "name": "CAPCUT PRO 2",
-      "url": "https://www.capcut.com/es-es/login",
-      "urls": [
-        "https://www.capcut.com/es-es/login"
-      ],
-      "salt": "2edfdc9678ec165b2d0f93472894935b",
-      "encryptedUsername": "df151432f852cb8b4e15d89f72fb76ed6dce66e26e275ed888c227e2fb7908b0",
-      "usernameIv": "01fa70ad3b50335942a91b8e",
-      "encryptedPassword": "40d99200d2f3210fd34464e2fa20dc4af29d0dd54499e4",
-      "passwordIv": "97063c23c658e7942fd7636a",
-      "encryptionKey": "d5b082c7c3e1a2ebc800c9d85eae74f69eb7d3f1b74eecac72526756cf50955a"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -59,18 +45,18 @@
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
     },
     {
-      "id": "mj2aqref2xzkpzjoboqy57o4fy6rbg",
-      "name": "CAPCUT PRO 3",
-      "url": "https://www.capcut.com/es-es/login",
+      "id": "mj2c66ru09ncpiyrh40ake54ngqv49h",
+      "name": "Chat gpt 1",
+      "url": "https://chatgpt.com/",
       "urls": [
-        "https://www.capcut.com/es-es/login"
+        "https://chatgpt.com/"
       ],
-      "salt": "e13ac161981b24801c93697914878a72",
-      "encryptedUsername": "b468e745a10173041e6b404b09cc4058fad2c13842378f727d50edcfaf46b0a9",
-      "usernameIv": "04302e3a7fee55a77ecfe40d",
-      "encryptedPassword": "f7da1b876db4883f8e9d380d9883f59756d86af6dd5f47af",
-      "passwordIv": "da55511b36d63aa102fff5a5",
-      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
+      "salt": "2acb4aadd07b6a4f433e04fc5a1d0efc",
+      "encryptedUsername": "eefc3d868ec700a270c7e267c565dcf0f2930578f6d524c59801086472527520bbaf9e1ea6",
+      "usernameIv": "0b0c2b12f226c62fcdc3326c",
+      "encryptedPassword": "d184cfd4469d7f4ac47b1ca2f67339f83250b6084bccdb21498c2921db",
+      "passwordIv": "2d69991741d8fd25e4a8639e",
+      "encryptionKey": "1cc1ce719e1dcff96f0372bae06f7c9b147cdd674607f93a543cdd341bc6e0ad"
     }
   ]
 }
