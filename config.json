@@ -1,1 +1,62 @@
-
+{
+  "version": "1.0.0",
+  "lastUpdate": "2025-12-12T04:05:24.886Z",
+  "profiles": [
+    {
+      "id": "mj156t30mo5z8sq05o7ifch3s402qo",
+      "name": "runway",
+      "url": "https://app.runwayml.com/v",
+      "urls": [
+        "https://app.runwayml.com/v"
+      ],
+      "salt": "3bee6289076a34d3c8200650d3768e01",
+      "encryptedUsername": "fd2864f88124f1c324406dfe4e69c342afd7d09f29786d1e5020035975d73718d273008baee68c83f7f80dd9be9bca4c",
+      "usernameIv": "8b32fc3315cffd566eeee305",
+      "encryptedPassword": "4083abc791f119ebc03394f20864956c0cfde8886640d3460f816174775a9dca",
+      "passwordIv": "894932d81b6548debcdf3e28",
+      "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
+    },
+    {
+      "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
+      "name": "CAPCUT PRO 1",
+      "url": "https://www.capcut.com/es-es/login",
+      "urls": [
+        "https://www.capcut.com/es-es/login"
+      ],
+      "salt": "785aecfa8fb5509e10cb07ef2e07787e",
+      "encryptedUsername": "4b98396ca51900053d63a865d2ae51655f519c6e51dfdfce1ff1341d14059923",
+      "usernameIv": "34466119425a55476602008e",
+      "encryptedPassword": "8bb767b8e7efdec42550a83c918b8dce0683e0a0cffb584b",
+      "passwordIv": "d45adfee880ff448d2ee12cf",
+      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
+    },
+    {
+      "id": "mj29hcx206ukecun84wf8pfabvfceg",
+      "name": "Gamma",
+      "url": "https://gamma.app/",
+      "urls": [
+        "https://gamma.app/"
+      ],
+      "salt": "0fe7d54adc30b4722f6c41461a8c3785",
+      "encryptedUsername": "b8984fb4ecbe93e407d052732e0d1e1a69d42f6b32886ed9f71a8759eb45683c033de7de5fc0",
+      "usernameIv": "bc492aff1e71f6a08ec4caec",
+      "encryptedPassword": "246785b0910b348560dcd7537aad78517316267582d798ad39ebed1fe0",
+      "passwordIv": "9b12cd6f1f823e1f56b48073",
+      "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
+    },
+    {
+      "id": "mj2cfn4qmptdtodx3nojeq5cnl6z",
+      "name": "Chat gpt 1",
+      "url": "https://auth.openai.com/log-in/password",
+      "urls": [
+        "https://auth.openai.com/log-in/password"
+      ],
+      "salt": "ee8e4614d3fb0fef436c9a70512155e0",
+      "encryptedUsername": "c899a2374404a885ef3b01f0ffa04409c89ab8089c50239e616e53b965fe265c3e41f0546e",
+      "usernameIv": "2f3a43bd590af50f4205b65a",
+      "encryptedPassword": "dbb21514e3740fb5d9fcc5961225ff4c7c1a970b685bca4bb73169b738",
+      "passwordIv": "106a9e74fc6cce70921d7f05",
+      "encryptionKey": "2689273bbc02fb446b4b344de7030b5ceac04d9fad2804fac9ef9f72f740ff93"
+    }
+  ]
+}
