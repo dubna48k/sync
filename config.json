@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T04:02:16.350Z",
+  "lastUpdate": "2025-12-12T04:04:57.377Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -45,18 +45,18 @@
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
     },
     {
-      "id": "mj2c66ru09ncpiyrh40ake54ngqv49h",
+      "id": "mj2cfn4qmptdtodx3nojeq5cnl6z",
       "name": "Chat gpt 1",
       "url": "https://auth.openai.com/log-in/password",
       "urls": [
         "https://auth.openai.com/log-in/password"
       ],
-      "salt": "1c3142c4410819db6b1d1a7660ab0de8",
-      "encryptedUsername": "00b8175c06064b0371757137b0411367f39eb8883a69f8f1df746abd1cc7be8bb741114180",
-      "usernameIv": "531d2cb7639eefc0c2256566",
-      "encryptedPassword": "0379479d0e0e8e9132d31d697ffd02543f462404964dee8c1ec7c37a93",
-      "passwordIv": "877305e44bf03abd6c7899bc",
-      "encryptionKey": "1cc1ce719e1dcff96f0372bae06f7c9b147cdd674607f93a543cdd341bc6e0ad"
+      "salt": "ee8e4614d3fb0fef436c9a70512155e0",
+      "encryptedUsername": "c899a2374404a885ef3b01f0ffa04409c89ab8089c50239e616e53b965fe265c3e41f0546e",
+      "usernameIv": "2f3a43bd590af50f4205b65a",
+      "encryptedPassword": "dbb21514e3740fb5d9fcc5961225ff4c7c1a970b685bca4bb73169b738",
+      "passwordIv": "106a9e74fc6cce70921d7f05",
+      "encryptionKey": "2689273bbc02fb446b4b344de7030b5ceac04d9fad2804fac9ef9f72f740ff93"
     }
   ]
 }
