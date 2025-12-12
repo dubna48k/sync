@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T04:51:23.831Z",
+  "lastUpdate": "2025-12-12T04:51:56.292Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -24,7 +24,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T04:51:23.831Z"
+      "updatedAt": "2025-12-12T04:51:56.292Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -48,7 +48,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:48:29.183Z",
-      "updatedAt": "2025-12-12T04:51:23.831Z"
+      "updatedAt": "2025-12-12T04:51:56.292Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -72,31 +72,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T04:51:23.831Z"
-    },
-    {
-      "id": "mj2cfn4qmptdtodx3nojeq5cnl6z",
-      "name": "Chat gpt 1",
-      "url": "https://auth.openai.com/log-in/password",
-      "urls": [
-        "https://auth.openai.com/log-in/password"
-      ],
-      "salt": "47f64de69b553acc5e2c60f809bda18f",
-      "encryptedUsername": "db1013088fda815b06634ec2b77da77fef7611c0b4198026ee97955e2e82a9efd23b8450ab",
-      "usernameIv": "e4bf1ededf96306414c923f9",
-      "encryptedPassword": "3138a49aa7aa174785c7614144710d176d6dc2f05341d64165d186ffbc",
-      "passwordIv": "f3c312fd3f7843ae99ee686f",
-      "encryptionKey": "2689273bbc02fb446b4b344de7030b5ceac04d9fad2804fac9ef9f72f740ff93",
-      "tools": [
-        "auth"
-      ],
-      "category": "ia",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "globalProfileId": null,
-      "createdAt": "2025-12-12T04:47:48.827Z",
-      "updatedAt": "2025-12-12T04:51:23.831Z"
+      "updatedAt": "2025-12-12T04:51:56.292Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -120,7 +96,7 @@
       "totpSecret": null,
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:50:35.192Z",
-      "updatedAt": "2025-12-12T04:51:23.831Z"
+      "updatedAt": "2025-12-12T04:51:56.292Z"
     }
   ]
 }
