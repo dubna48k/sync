@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T04:05:24.886Z",
+  "lastUpdate": "2025-12-12T04:51:23.831Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -9,12 +9,22 @@
       "urls": [
         "https://app.runwayml.com/v"
       ],
-      "salt": "3bee6289076a34d3c8200650d3768e01",
-      "encryptedUsername": "fd2864f88124f1c324406dfe4e69c342afd7d09f29786d1e5020035975d73718d273008baee68c83f7f80dd9be9bca4c",
-      "usernameIv": "8b32fc3315cffd566eeee305",
-      "encryptedPassword": "4083abc791f119ebc03394f20864956c0cfde8886640d3460f816174775a9dca",
-      "passwordIv": "894932d81b6548debcdf3e28",
-      "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b"
+      "salt": "a546ea4dafc804e4abcd6c612018f4a2",
+      "encryptedUsername": "c81d6f341de4ff3ed025cce6a36a43742722d50740017b995e56c5fc34f9a41003405c7cdac0e36301f4c37d15e54fb0",
+      "usernameIv": "115d64dea717898f3d7429f7",
+      "encryptedPassword": "3e13852cdc886b1a1d9dd6566db727e551175bae0d81d4a036d0c32ffed522d3",
+      "passwordIv": "446fb80f553b6202ed23b960",
+      "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b",
+      "tools": [
+        "Runway"
+      ],
+      "category": "video",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "globalProfileId": null,
+      "createdAt": "2025-12-12T04:47:44.446Z",
+      "updatedAt": "2025-12-12T04:51:23.831Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -23,12 +33,22 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "785aecfa8fb5509e10cb07ef2e07787e",
-      "encryptedUsername": "4b98396ca51900053d63a865d2ae51655f519c6e51dfdfce1ff1341d14059923",
-      "usernameIv": "34466119425a55476602008e",
-      "encryptedPassword": "8bb767b8e7efdec42550a83c918b8dce0683e0a0cffb584b",
-      "passwordIv": "d45adfee880ff448d2ee12cf",
-      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893"
+      "salt": "18c08f12f1f19f7641f164c88ffa9535",
+      "encryptedUsername": "35f78c37d9f197f27135e271a2c2c53c7b37d8c3d801e34547113724a669293f",
+      "usernameIv": "2ec6cb0a336971ba84fff13a",
+      "encryptedPassword": "6ece6d79f535546292a6b521a095a10becebd93da82723cd",
+      "passwordIv": "80d4bdf76e8de46cb52e04a3",
+      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
+      "tools": [
+        "capcut"
+      ],
+      "category": "video",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "globalProfileId": null,
+      "createdAt": "2025-12-12T04:48:29.183Z",
+      "updatedAt": "2025-12-12T04:51:23.831Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -37,12 +57,22 @@
       "urls": [
         "https://gamma.app/"
       ],
-      "salt": "0fe7d54adc30b4722f6c41461a8c3785",
-      "encryptedUsername": "b8984fb4ecbe93e407d052732e0d1e1a69d42f6b32886ed9f71a8759eb45683c033de7de5fc0",
-      "usernameIv": "bc492aff1e71f6a08ec4caec",
-      "encryptedPassword": "246785b0910b348560dcd7537aad78517316267582d798ad39ebed1fe0",
-      "passwordIv": "9b12cd6f1f823e1f56b48073",
-      "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be"
+      "salt": "ad2ff5e9e0f2c004752d60d1d578ecf8",
+      "encryptedUsername": "f42ea8a0ef52e14a98457ef0004a6a9614c58cd5e0c44fb8185284261dcab3dbc3e07005493e",
+      "usernameIv": "852cd6fa3cf7b9837039d215",
+      "encryptedPassword": "f898b14232cea446c3afe6eb58088ab3d7399fe4c7047d46ee4ac6377f",
+      "passwordIv": "98a4f4a58799cabc8b0ea21a",
+      "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be",
+      "tools": [
+        "Gamma"
+      ],
+      "category": "trabajo",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "globalProfileId": null,
+      "createdAt": "2025-12-12T04:47:35.729Z",
+      "updatedAt": "2025-12-12T04:51:23.831Z"
     },
     {
       "id": "mj2cfn4qmptdtodx3nojeq5cnl6z",
@@ -51,12 +81,46 @@
       "urls": [
         "https://auth.openai.com/log-in/password"
       ],
-      "salt": "ee8e4614d3fb0fef436c9a70512155e0",
-      "encryptedUsername": "c899a2374404a885ef3b01f0ffa04409c89ab8089c50239e616e53b965fe265c3e41f0546e",
-      "usernameIv": "2f3a43bd590af50f4205b65a",
-      "encryptedPassword": "dbb21514e3740fb5d9fcc5961225ff4c7c1a970b685bca4bb73169b738",
-      "passwordIv": "106a9e74fc6cce70921d7f05",
-      "encryptionKey": "2689273bbc02fb446b4b344de7030b5ceac04d9fad2804fac9ef9f72f740ff93"
+      "salt": "47f64de69b553acc5e2c60f809bda18f",
+      "encryptedUsername": "db1013088fda815b06634ec2b77da77fef7611c0b4198026ee97955e2e82a9efd23b8450ab",
+      "usernameIv": "e4bf1ededf96306414c923f9",
+      "encryptedPassword": "3138a49aa7aa174785c7614144710d176d6dc2f05341d64165d186ffbc",
+      "passwordIv": "f3c312fd3f7843ae99ee686f",
+      "encryptionKey": "2689273bbc02fb446b4b344de7030b5ceac04d9fad2804fac9ef9f72f740ff93",
+      "tools": [
+        "auth"
+      ],
+      "category": "ia",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "globalProfileId": null,
+      "createdAt": "2025-12-12T04:47:48.827Z",
+      "updatedAt": "2025-12-12T04:51:23.831Z"
+    },
+    {
+      "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
+      "name": "CAPCUT PRO 2",
+      "url": "https://www.capcut.com/es-es/login",
+      "urls": [
+        "https://www.capcut.com/es-es/login"
+      ],
+      "salt": "60ec2c5db237de64e5f4d0b7c55db101",
+      "encryptedUsername": "39c8664622b487653fdb26ad9d13cfbaa0b637ba89834218b3f3394ce97ee5dc",
+      "usernameIv": "d788e9fa7143fe1715ef7021",
+      "encryptedPassword": "d37532724648682aae1ea908fe4b6636cf0537ae4de53023",
+      "passwordIv": "8da7b713b8e8c238bb374dea",
+      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
+      "tools": [
+        "capcut"
+      ],
+      "category": "video",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "globalProfileId": null,
+      "createdAt": "2025-12-12T04:50:35.192Z",
+      "updatedAt": "2025-12-12T04:51:23.831Z"
     }
   ]
 }
