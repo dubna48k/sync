@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T04:01:03.781Z",
+  "lastUpdate": "2025-12-12T04:02:16.350Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -51,11 +51,11 @@
       "urls": [
         "https://auth.openai.com/log-in/password"
       ],
-      "salt": "4dc7ef94774d5f6a87a52031f81b8d8b",
-      "encryptedUsername": "3598cd368f3e81b1042c64508860bc0d14b3cb2680dc6729c261a8aa13594baa8ecad97c64",
-      "usernameIv": "ba13c47de250ffb876fb2f57",
-      "encryptedPassword": "ad7767926497d165e71b1590fbd510f453d682c4676ea24623b390461b",
-      "passwordIv": "5615606246595968586f58ad",
+      "salt": "1c3142c4410819db6b1d1a7660ab0de8",
+      "encryptedUsername": "00b8175c06064b0371757137b0411367f39eb8883a69f8f1df746abd1cc7be8bb741114180",
+      "usernameIv": "531d2cb7639eefc0c2256566",
+      "encryptedPassword": "0379479d0e0e8e9132d31d697ffd02543f462404964dee8c1ec7c37a93",
+      "passwordIv": "877305e44bf03abd6c7899bc",
       "encryptionKey": "1cc1ce719e1dcff96f0372bae06f7c9b147cdd674607f93a543cdd341bc6e0ad"
     }
   ]
