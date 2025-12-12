@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T19:10:43.292Z",
+  "lastUpdate": "2025-12-12T19:40:57.550Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T19:10:43.292Z"
+      "updatedAt": "2025-12-12T19:40:57.550Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:00.421Z",
-      "updatedAt": "2025-12-12T19:10:43.292Z"
+      "updatedAt": "2025-12-12T19:40:57.550Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T19:10:43.292Z"
+      "updatedAt": "2025-12-12T19:40:57.550Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -100,32 +100,32 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:27.726Z",
-      "updatedAt": "2025-12-12T19:10:43.292Z"
+      "updatedAt": "2025-12-12T19:40:57.550Z"
     },
     {
-      "id": "mj38sil3wsvgur7qe2mjmpo1o5e4",
-      "name": "CHAT GPT 1 ads new",
+      "id": "mj39verdeygl3zr7317a9f6anxnsve",
+      "name": "Chatgpt 1 ads nue",
       "url": "https://chatgpt.com/",
       "urls": [
         "https://chatgpt.com/"
       ],
-      "salt": "b7003cfc513e791cded4229e90e2b8b1",
-      "encryptedUsername": "ebdebcab91a8ce8844fd027df0c313a12fbf1e50a2c2718a0f953066349a47a6f418c0",
-      "usernameIv": "6cc461245efb6cebb89c9df1",
-      "encryptedPassword": "88be73999c17ed399bea8bd5109483c54d512b125ed335c5ebba57a9",
-      "passwordIv": "9427c3ac4c1f496345a20ce3",
-      "encryptionKey": "542dcf29f80971cf258b39ddce0d100803a3535308fc2191975256ac1416caf1",
+      "salt": "a42bad86ff08311688e8f77c0a179f59",
+      "encryptedUsername": "2b52fd3abe9e5625a537cdfcc0c3f2c2559c8740e0c11aa87cdbeb8b971095844ab549",
+      "usernameIv": "586947fa9179e65e9633f072",
+      "encryptedPassword": "0fa51db83280091424c305fff4aa48a0baa5c6c4c25a5563b0b24308",
+      "passwordIv": "3ddae38622c40a881dfc4618",
+      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
       "tools": [
         "chatgpt"
       ],
-      "category": "ia",
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": "YDLACTRRH7S2NBLAXDDXFBREYQJPED2H",
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T19:10:40.408Z",
-      "updatedAt": "2025-12-12T19:10:43.292Z"
+      "createdAt": "2025-12-12T19:40:55.033Z",
+      "updatedAt": "2025-12-12T19:40:57.550Z"
     }
   ]
 }
