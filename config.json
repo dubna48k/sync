@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-13T21:35:31.855Z",
+  "lastUpdate": "2025-12-13T21:53:08.821Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -34,11 +34,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "30fdb3b9bcfd6623908be2e8f7b52a31",
-      "encryptedUsername": "57757b6df727bd59e3e61f104c6e04669e2610aa38100b529c7d84d53e2d9a9f",
-      "usernameIv": "0111e36db037b161d89255f4",
-      "encryptedPassword": "494e368b6fd29ae87098e90c99778039163ba47c6c62bcdf",
-      "passwordIv": "044cc46ba3e920de17d7fef1",
+      "salt": "e9a41b147d6ebb759aff69956354d102",
+      "encryptedUsername": "35db0698ccd575feea9644deada262c7eb292d0a51a8c227218d2004913959e9",
+      "usernameIv": "300149eedff433ef4798eb85",
+      "encryptedPassword": "e7e6a31e3ba958db8fda03ebae11444814a23318c70cb927",
+      "passwordIv": "666d2f410cdc4f178cc5cfe9",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
       "tools": [
         "capcut"
@@ -49,8 +49,8 @@
       "totpSecret": null,
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T19:06:00.421Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "createdAt": "2025-12-13T21:52:49.812Z",
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -84,11 +84,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "69e1c289c838e91d919e5541f227804e",
-      "encryptedUsername": "911b3b1534987aa5e69d27347acb943fecf4fb93fe090baf49f9c463b28ffd",
-      "usernameIv": "bc957302b450386191cbb5cb",
-      "encryptedPassword": "a7a2eb4118ebb2f30a3fcec25dc9cbae5726e0c83f8e00ee",
-      "passwordIv": "4b56ef69e2a6fa6941501109",
+      "salt": "2b75696a33140de5ae6e5a9558279af1",
+      "encryptedUsername": "b03b59e00db4919a2157639fb1aa835fd7b84ca9a307f87b31af8cb06e4acb",
+      "usernameIv": "e5cbb86e1df653fddcc4bb7b",
+      "encryptedPassword": "11a192779a760be1a1a1e9de9aa378e7098b992a8de692e2",
+      "passwordIv": "9b41e3d1f6963fbccfa545e9",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
       "tools": [
         "capcut"
@@ -99,8 +99,8 @@
       "totpSecret": null,
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T23:32:56.175Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "createdAt": "2025-12-13T21:53:02.347Z",
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -125,7 +125,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T20:09:20.396Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -150,7 +150,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-13T20:25:32.480Z",
-      "updatedAt": "2025-12-13T21:35:31.855Z"
+      "updatedAt": "2025-12-13T21:53:08.821Z"
     }
   ]
 }
