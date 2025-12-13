@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-12T23:34:19.237Z",
+  "lastUpdate": "2025-12-13T21:35:31.855Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:44.446Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T19:06:00.421Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T04:47:35.729Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -100,7 +100,7 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T23:32:56.175Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -125,57 +125,32 @@
       "authDomains": [],
       "globalProfileId": null,
       "createdAt": "2025-12-12T20:09:20.396Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     },
     {
-      "id": "mj3cz80yyk9el8g2eq6hsathwbtux",
-      "name": "Chatgpt 1 ads vie",
-      "url": "https://chatgpt.com/",
+      "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
+      "name": "CAPCUT PRO 3",
+      "url": "https://www.capcut.com/es-es/login",
       "urls": [
-        "https://chatgpt.com/"
+        "https://www.capcut.com/es-es/login"
       ],
-      "salt": "b0b3d4101006b5e7760f697f763ccd83",
-      "encryptedUsername": "8a2d4a301c9d9d16625a616e9c90e4b7923f49eef99d2ccf3e7d91768053015cca357b5f1c5686660fe2f08b578536",
-      "usernameIv": "500bded379cf1034bf9fa0ad",
-      "encryptedPassword": "f518a5fca1522589f9018582d5e93e3c29ad677ae1b3ed7548b7dceddabb98be80",
-      "passwordIv": "2e28570ab45a5a8e450fe890",
-      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
+      "salt": "2a24223521412fc1e8167a246a571f0c",
+      "encryptedUsername": "5b411b99c41a99fdf93b784fdf65a94c621c8ad33ccb94acd0b22dd861783d7218ab25",
+      "usernameIv": "938476af29b3a08fef844396",
+      "encryptedPassword": "9fa413a8b41c6df9e4f00b84dd273caccda654e15a784c594700e2fe",
+      "passwordIv": "47fc641370f8386594081170",
+      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
       "tools": [
-        "chatgpt"
+        "capcut"
       ],
-      "category": "ia",
+      "category": "video",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": "3JAU6Q3VAM4SS6PFI7KQ4Y3RMUXNX2RJ",
+      "totpSecret": null,
       "authDomains": [],
       "globalProfileId": null,
-      "createdAt": "2025-12-12T23:34:02.911Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
-    },
-    {
-      "id": "mj3e6zgtzjbpy9hhv4m84sfn6edhi",
-      "name": "Chatgpt 2 ads viejo",
-      "url": "https://chatgpt.com/",
-      "urls": [
-        "https://chatgpt.com/"
-      ],
-      "salt": "0b28f2d7155fbf9abf6f1dc9028341fb",
-      "encryptedUsername": "29cb5a36a939fca5bd84ee0200f8e66fa14382e10bebab66541a165f8a0edf3a789726f4ed1af4d2961b603c1f27fdae",
-      "usernameIv": "8872306d4360e10406789dfb",
-      "encryptedPassword": "000803410bf0c7be3ca086e4f808e636659f6828f2e548519b9ce6176a",
-      "passwordIv": "cbde9fb4bb8f8eb238cde5cd",
-      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
-      "tools": [
-        "chatgpt"
-      ],
-      "category": "ia",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": "676BKOR2D4LL2KDNCBWQ5DCNS7ZF4ITU",
-      "authDomains": [],
-      "globalProfileId": null,
-      "createdAt": "2025-12-12T23:34:16.226Z",
-      "updatedAt": "2025-12-12T23:34:19.237Z"
+      "createdAt": "2025-12-13T20:25:32.480Z",
+      "updatedAt": "2025-12-13T21:35:31.855Z"
     }
   ]
 }
