@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-14T04:23:08.635Z",
+  "lastUpdate": "2025-12-14T04:23:58.309Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "adspowerProfileId": "Runway",
       "createdAt": "2025-12-14T01:57:36.450Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 1",
       "createdAt": "2025-12-13T23:59:50.957Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "adspowerProfileId": "Gamma",
       "createdAt": "2025-12-14T01:57:53.942Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -84,11 +84,11 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "ed316e01e751bc96963a2ba0ecf1da18",
-      "encryptedUsername": "384e17fb700c0803f490d684f9c7613e1994e598ed6971855345dd5a408fb1",
-      "usernameIv": "a176ce07cd21e34f86091015",
-      "encryptedPassword": "4d82d98ea1ef61f7108b2050aac1948058258b34d49f664d",
-      "passwordIv": "a6665a5863f31bff33f28310",
+      "salt": "99c49052b587b57afe3e1bc751eeff07",
+      "encryptedUsername": "fe496cf67f9780ce7353448d3543438b72fe715f28abc8f75627c170b3013e",
+      "usernameIv": "cb24f1d987ac7009e7a27e91",
+      "encryptedPassword": "78a736c1a682253a60131d29dd06eb893a7106e98992f5ca",
+      "passwordIv": "5daeb8d22ee3acc55d262bd1",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
       "tools": [
         "capcut"
@@ -98,9 +98,9 @@
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "k17gmtgc",
-      "createdAt": "2025-12-13T23:29:13.594Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "adspowerProfileId": "CAPCUT PRO 2",
+      "createdAt": "2025-12-14T04:23:55.367Z",
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -125,7 +125,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-12T20:09:20.396Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -150,7 +150,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 3",
       "createdAt": "2025-12-14T01:58:01.636Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     },
     {
       "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
@@ -175,7 +175,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-13T21:55:53.056Z",
-      "updatedAt": "2025-12-14T04:23:08.635Z"
+      "updatedAt": "2025-12-14T04:23:58.309Z"
     }
   ]
 }
