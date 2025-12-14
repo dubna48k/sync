@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-14T05:18:56.618Z",
+  "lastUpdate": "2025-12-14T05:33:56.629Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "adspowerProfileId": "Runway",
       "createdAt": "2025-12-14T01:57:36.450Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 1",
       "createdAt": "2025-12-13T23:59:50.957Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "adspowerProfileId": "Gamma",
       "createdAt": "2025-12-14T01:57:53.942Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -100,7 +100,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 2",
       "createdAt": "2025-12-14T04:23:55.367Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -125,7 +125,7 @@
       "authDomains": [],
       "adspowerProfileId": "Chatgpt 1",
       "createdAt": "2025-12-14T04:26:01.501Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -150,7 +150,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 3",
       "createdAt": "2025-12-14T01:58:01.636Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     },
     {
       "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
@@ -175,7 +175,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-13T21:55:53.056Z",
-      "updatedAt": "2025-12-14T05:18:56.619Z"
+      "updatedAt": "2025-12-14T05:33:56.629Z"
     }
   ]
 }
