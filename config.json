@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-16T03:06:23.038Z",
+  "lastUpdate": "2025-12-16T03:21:56.821Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -23,7 +23,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-14T01:57:36.450Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -46,7 +46,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T00:26:24.664Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -69,7 +69,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-14T01:57:53.942Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -92,32 +92,32 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T00:26:40.528Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
-      "id": "mj39verdeygl3zr7317a9f6anxnsve",
-      "name": "CHAT GPT 2 / SORA",
+      "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
+      "name": "CHAT GPT 1 / SORA",
       "url": "https://chatgpt.com/",
       "urls": [
         "https://chatgpt.com/"
       ],
-      "salt": "f821d215abc8b0647483f95ec9ee0201",
-      "encryptedUsername": "a6c98c3cc69c52bd1ae2b6b985ea41951eb91484810985b7ebf554ec1be7c14909536b0a",
-      "usernameIv": "0aa507825bfefa2b141a6b54",
-      "encryptedPassword": "3e0394a22d39ab4538b7e279d2a3a6c6a02579d6ad922a6846c97561cd",
-      "passwordIv": "bf71f45c04f7ff760a400a50",
+      "salt": "02830d680d13e254dffe8758faa0c65e",
+      "encryptedUsername": "987d6e0479145c2b2dad8ac9e23f2cd826f039a18051e61bc090d30bc830435507cdf0",
+      "usernameIv": "d56e28668a7460eaedc8af87",
+      "encryptedPassword": "91babd7f931a512659bad889a8a06ad28cc8b7fc9c7ff377009ff587",
+      "passwordIv": "b36dea8d0d4a28065cf3169a",
       "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
       "tools": [
         "chatgpt"
       ],
-      "category": "otro",
+      "category": "ia",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": "MLEKHVAKHN2ZW6ASXDO4RAVHQS5IGFBF",
+      "totpSecret": "Y7TLY66R3SG5H25DH4QZOIFZ7QA5KX34",
       "authDomains": [],
-      "adspowerProfileId": "CHAT GPT 2 / SORA",
-      "createdAt": "2025-12-16T03:05:16.873Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "adspowerProfileId": "CHAT GPT 1 / SORA",
+      "createdAt": "2025-12-16T03:21:51.512Z",
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -140,7 +140,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T00:26:32.396Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
@@ -163,7 +163,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T00:26:48.287Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj7sw8rx9n4jlbxpekmuge7oka701j",
@@ -186,7 +186,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T00:41:57.335Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -209,7 +209,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T01:23:07.624Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     },
     {
       "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
@@ -224,15 +224,17 @@
       "encryptedPassword": "7ae8272d93ba4d538ce2f90817afc550a45cefa28f587d257ea1e497e1",
       "passwordIv": "1c1cd863e9e9e9ec0acb1f7a",
       "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
-      "tools": [],
+      "tools": [
+        "chatgpt"
+      ],
       "category": "otro",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": null,
+      "totpSecret": "MLEKHVAKHN2ZW6ASXDO4RAVHQS5IGFBF",
       "authDomains": [],
-      "adspowerProfileId": null,
+      "adspowerProfileId": "CHAT GPT 2 / SORA",
       "createdAt": "2025-12-16T02:56:11.793Z",
-      "updatedAt": "2025-12-16T03:06:23.038Z"
+      "updatedAt": "2025-12-16T03:21:56.821Z"
     }
   ]
 }
