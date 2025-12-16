@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-16T00:42:00.016Z",
+  "lastUpdate": "2025-12-16T01:23:09.933Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -23,7 +23,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-14T01:57:36.450Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -48,7 +48,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 1",
       "createdAt": "2025-12-16T00:26:24.664Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -71,7 +71,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-14T01:57:53.942Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -96,7 +96,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 2",
       "createdAt": "2025-12-16T00:26:40.528Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj39verdeygl3zr7317a9f6anxnsve",
@@ -119,7 +119,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-14T04:26:01.501Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -144,7 +144,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 3",
       "createdAt": "2025-12-16T00:26:32.396Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
@@ -169,7 +169,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 4",
       "createdAt": "2025-12-16T00:26:48.287Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     },
     {
       "id": "mj7sw8rx9n4jlbxpekmuge7oka701j",
@@ -194,7 +194,32 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 5",
       "createdAt": "2025-12-16T00:41:57.335Z",
-      "updatedAt": "2025-12-16T00:42:00.016Z"
+      "updatedAt": "2025-12-16T01:23:09.933Z"
+    },
+    {
+      "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
+      "name": "LEONARDO IA",
+      "url": "https://app.leonardo.ai/auth/login",
+      "urls": [
+        "https://app.leonardo.ai/auth/login"
+      ],
+      "salt": "a72f7e691f4499bedc29b16d10377ae3",
+      "encryptedUsername": "3549e818b4238d6d3785279a0bc3322dc8a0f05f8c008300f0beb02b0c355f3c9b59b352e73d",
+      "usernameIv": "745363ec75d365cd7d8c862e",
+      "encryptedPassword": "9013c8e7e941c03c97f15e7fe498dc247b82a3ee5dceedfc3497cc518d",
+      "passwordIv": "97a5d361c3e2f27dc95286b1",
+      "encryptionKey": "dcc4d79092108018e8da2509d6c4f8e7a0225a838c495f49b9380acdd1571a11",
+      "tools": [
+        "app"
+      ],
+      "category": "video",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "authDomains": [],
+      "adspowerProfileId": "LEONARDO IA",
+      "createdAt": "2025-12-16T01:23:07.624Z",
+      "updatedAt": "2025-12-16T01:23:09.933Z"
     }
   ]
 }
