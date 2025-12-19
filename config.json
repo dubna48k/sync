@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-19T03:46:08.302Z",
+  "lastUpdate": "2025-12-19T21:18:38.426Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -23,7 +23,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:34:42.656Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -32,23 +32,21 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "f5a2125a7cf9d340457378191cbc595c",
-      "encryptedUsername": "f653d9c403c2b78eb41758ab3a5cd04fc5bd45272ffc60c4d21087170c3f9e1c9061660e49cb",
-      "usernameIv": "efa1341947c87e089166858b",
-      "encryptedPassword": "88222a014d6afaf6631e9e979da3ab9ed467a37ece75921e",
-      "passwordIv": "13bdfedd6e8164492f927e20",
+      "salt": "642a6de4fedeef3efd2579a6b9e278f8",
+      "encryptedUsername": "6205d18cb21d9424989bfdf9386c1297ba8403026ba3e37af7eafb03084744fd1e2164b30109",
+      "usernameIv": "386fcc4315eccae87059cf56",
+      "encryptedPassword": "2e4aed8de4167a27e72541acd6f59cb06e9ec979b7c78b5d",
+      "passwordIv": "cbb746214dfb808f21626d53",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 1",
-      "createdAt": "2025-12-19T03:45:45.118Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "adspowerProfileId": null,
+      "createdAt": "2025-12-16T17:44:59.085Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -57,21 +55,23 @@
       "urls": [
         "https://gamma.app/"
       ],
-      "salt": "5cf37747431d52e09628aefa53b99c56",
-      "encryptedUsername": "c6a5c8a06c59dfab1a843b0fdf1f00ab4174930d1e72762dd611c611f6e7645b81b2b0cc31e4",
-      "usernameIv": "555c389762ed47a70d2b8f3f",
-      "encryptedPassword": "670c18657146cadaa14ab688c7490dfcee1c0598d51f20ed78ce3035be",
-      "passwordIv": "ea8d0da8c11118eefe0e06ea",
+      "salt": "a69c40f9180d43471fff7be530d4e8e2",
+      "encryptedUsername": "f2a965fda9d64d18b8d2e26c052ca49e0856bb640a3b34197b654c51db8fbe48191ef8226342402223ca02dbe72974ae",
+      "usernameIv": "35a18725c3f1c4f68242a1b8",
+      "encryptedPassword": "c5c29e11dfc2205c3931d6e60adf8c4cd51e12facd89b46bee926d8f98",
+      "passwordIv": "d2249553273e69e3d9f66fb5",
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be",
-      "tools": [],
+      "tools": [
+        "Gamma"
+      ],
       "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
-      "createdAt": "2025-12-16T08:34:27.930Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "createdAt": "2025-12-19T21:18:34.882Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -80,37 +80,12 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "d50ca538c7ac8f780aca01a4620e8ab4",
-      "encryptedUsername": "cff47852d0a3325060629cd025f674dad4dd66c6ddc6ce8ded130e0a1a1028cc9145b2bc1764e562",
-      "usernameIv": "43033bde6d97f95e2a1cfe40",
-      "encryptedPassword": "bb311d01c546afdb756618a49885ff0813b129257188c3cb",
-      "passwordIv": "4d805b04f08c687bc3b0cbc0",
+      "salt": "787864b5e7320585806390710dda9fd3",
+      "encryptedUsername": "e1ac44cbefc9517e2a072866f35aa276573374907713346db7f18bd64e2434c36e35c25476ed8ece",
+      "usernameIv": "be3548ed6b0c1a698c9d0e35",
+      "encryptedPassword": "ef57c95f818217bdfa9c46ccc0e3a3ef643a9adaf1c022db",
+      "passwordIv": "cc9e04c1bf56a9dba811e73c",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 2",
-      "createdAt": "2025-12-19T03:45:25.471Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
-    },
-    {
-      "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
-      "name": "CHAT GPT 1 / SORA",
-      "url": "https://chatgpt.com/",
-      "urls": [
-        "https://chatgpt.com/"
-      ],
-      "salt": "02830d680d13e254dffe8758faa0c65e",
-      "encryptedUsername": "987d6e0479145c2b2dad8ac9e23f2cd826f039a18051e61bc090d30bc830435507cdf0",
-      "usernameIv": "d56e28668a7460eaedc8af87",
-      "encryptedPassword": "91babd7f931a512659bad889a8a06ad28cc8b7fc9c7ff377009ff587",
-      "passwordIv": "b36dea8d0d4a28065cf3169a",
-      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
       "tools": [],
       "category": "otro",
       "status": "active",
@@ -118,8 +93,8 @@
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
-      "createdAt": "2025-12-16T03:21:51.512Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "createdAt": "2025-12-16T17:45:23.602Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -128,73 +103,21 @@
       "urls": [
         "https://www.capcut.com/es-es/login"
       ],
-      "salt": "e762c0de74177bfd8772d1d66839abd9",
-      "encryptedUsername": "c5e13a50695cce6fc7de50ca288a065721ee19525db96ebe396e0c82c74118c8b8aa33",
-      "usernameIv": "f6b6f3045caebcef329a68a7",
-      "encryptedPassword": "cbfab281ae27c6ac1c4a3cad835828908c11222d3a666614dbf7da39",
-      "passwordIv": "d1c020d9483d5442a463a4dd",
+      "salt": "95c94f042fabc8515d45beed788a0f0f",
+      "encryptedUsername": "33dc2c53e418fe79aca3215c7b76c89ad72335ac0a42f155f17f7afdc06c70532ee6dc",
+      "usernameIv": "eb7e268198daae64700204e3",
+      "encryptedPassword": "efc93ee7c9083792e1dcbd2db29897b658930a73e17a78f4cff1d3e1",
+      "passwordIv": "9ee7728de47975bf4dcc3f17",
       "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 3",
-      "createdAt": "2025-12-19T03:46:02.635Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
-    },
-    {
-      "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
-      "name": "CAPCUT PRO 4",
-      "url": "https://www.capcut.com/es-es/login",
-      "urls": [
-        "https://www.capcut.com/es-es/login"
-      ],
-      "salt": "3990aa1a78ed32b5240178e6040ea0f8",
-      "encryptedUsername": "b61904037fa53cd7eb4613745324e392087364d847d867c5e70d996102b62a",
-      "usernameIv": "42e9dd33a96f1aab4204bd99",
-      "encryptedPassword": "edb94c75170817587400e2d0fec9cedc343e3ee4a849c13e",
-      "passwordIv": "9a77404086bdc1cd5f629392",
-      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
-      "tools": [
-        "capcut"
-      ],
+      "tools": [],
       "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 4",
-      "createdAt": "2025-12-16T14:51:54.235Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
-    },
-    {
-      "id": "mj7sw8rx9n4jlbxpekmuge7oka701j",
-      "name": "CAPCUT PRO 5",
-      "url": "https://www.capcut.com/es-es/login",
-      "urls": [
-        "https://www.capcut.com/es-es/login"
-      ],
-      "salt": "3609daf6bafe874b9a049ca24acf8d3a",
-      "encryptedUsername": "6a1f0df8e7c16d922793d4dbdc236b42521253f9affcdbce09b2b4ec754e9f4d",
-      "usernameIv": "078cdb0b371c637bf80a7aec",
-      "encryptedPassword": "52d4c457a7741ea7c037c25db1db3519a9050e21ec357942",
-      "passwordIv": "5f6b20d0e901329e5442e26b",
-      "encryptionKey": "572477dd13cec4b20ef4ef238e584cc064db9f8f5672ca54bb5d4bb15b548893",
-      "tools": [
-        "capcut"
-      ],
-      "category": "otro",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 5",
-      "createdAt": "2025-12-16T14:52:07.074Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "adspowerProfileId": null,
+      "createdAt": "2025-12-16T08:34:51.089Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -217,53 +140,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:35:09.243Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
-    },
-    {
-      "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
-      "name": "CHAT GPT 2 / SORA",
-      "url": "https://chatgpt.com/",
-      "urls": [
-        "https://chatgpt.com/"
-      ],
-      "salt": "cd5253b95b31d80f93546fa7f171fe65",
-      "encryptedUsername": "4a6c9e0154be25a6bff1b6d4467e04bf7c589544d2faa9b7bb55d06a57b763e92506feea",
-      "usernameIv": "a24a288f603bb5ce13cd733f",
-      "encryptedPassword": "946a28fb49c07ae21b9757c17f51dced25d3e5164fe26fdbbe3b0c80cf",
-      "passwordIv": "df2cced802dd2eda2c98af90",
-      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
-      "tools": [],
-      "category": "otro",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "authDomains": [],
-      "adspowerProfileId": null,
-      "createdAt": "2025-12-17T19:05:18.306Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
-    },
-    {
-      "id": "mj8c0750i6b4am261kpmn5nd8t647",
-      "name": "CHAT GPT 3 / SORA",
-      "url": "https://chatgpt.com/",
-      "urls": [
-        "https://chatgpt.com/"
-      ],
-      "salt": "6680b38345ca6ee4bb69b1614c9cbb35",
-      "encryptedUsername": "02661e70ec1e03bc77d3560237919ecd6a330e027d1175570fd31516afbcd7cb3a7df571ab1455836cbe6fcc57835a94",
-      "usernameIv": "dcabcc329ce6e4b624cd07d5",
-      "encryptedPassword": "c34151e41671138e2b49ecdb08462b8bcbe149fe4ade857e012fa72390",
-      "passwordIv": "bff59cdfa4ca9eec0af4b982",
-      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
-      "tools": [],
-      "category": "otro",
-      "status": "active",
-      "expirationDate": null,
-      "totpSecret": null,
-      "authDomains": [],
-      "adspowerProfileId": null,
-      "createdAt": "2025-12-16T08:39:54.592Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj80scrfyv6hl86t03tt4ej9tyl5m",
@@ -286,7 +163,30 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:34:09.037Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "updatedAt": "2025-12-19T21:18:38.426Z"
+    },
+    {
+      "id": "mj8c0750i6b4am261kpmn5nd8t647",
+      "name": "CHAT GPT 3 / SORA",
+      "url": "https://chatgpt.com/",
+      "urls": [
+        "https://chatgpt.com/"
+      ],
+      "salt": "6680b38345ca6ee4bb69b1614c9cbb35",
+      "encryptedUsername": "02661e70ec1e03bc77d3560237919ecd6a330e027d1175570fd31516afbcd7cb3a7df571ab1455836cbe6fcc57835a94",
+      "usernameIv": "dcabcc329ce6e4b624cd07d5",
+      "encryptedPassword": "c34151e41671138e2b49ecdb08462b8bcbe149fe4ade857e012fa72390",
+      "passwordIv": "bff59cdfa4ca9eec0af4b982",
+      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
+      "tools": [],
+      "category": "otro",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "authDomains": [],
+      "adspowerProfileId": null,
+      "createdAt": "2025-12-16T08:39:54.592Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mj8wl55leh7gy8ry3j6s8yiab8zrn",
@@ -309,7 +209,32 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T18:46:43.941Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "updatedAt": "2025-12-19T21:18:38.426Z"
+    },
+    {
+      "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
+      "name": "CHAT GPT 2 / SORA",
+      "url": "https://chatgpt.com/",
+      "urls": [
+        "https://chatgpt.com/"
+      ],
+      "salt": "cd5253b95b31d80f93546fa7f171fe65",
+      "encryptedUsername": "4a6c9e0154be25a6bff1b6d4467e04bf7c589544d2faa9b7bb55d06a57b763e92506feea",
+      "usernameIv": "a24a288f603bb5ce13cd733f",
+      "encryptedPassword": "946a28fb49c07ae21b9757c17f51dced25d3e5164fe26fdbbe3b0c80cf",
+      "passwordIv": "df2cced802dd2eda2c98af90",
+      "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
+      "tools": [
+        "chatgpt"
+      ],
+      "category": "ia",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": "MLEKHVAKHN2ZW6ASXDO4RAVHQS5IGFBF",
+      "authDomains": [],
+      "adspowerProfileId": "CHAT GPT 2 / SORA",
+      "createdAt": "2025-12-17T19:05:18.306Z",
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     },
     {
       "id": "mjadsz4mj0tayia6cprwulbwvjiyl",
@@ -324,15 +249,17 @@
       "encryptedPassword": "b8467694f011cef6413625e56737c11cb67c2cf0e3db42ffb5a0954b",
       "passwordIv": "e5519052f4dde584ae0b4986",
       "encryptionKey": "7f467ea531572be09e2fddcd7ba05321cabe4eed3c81c31a5468613b25111fac",
-      "tools": [],
-      "category": "otro",
+      "tools": [
+        "chatgpt"
+      ],
+      "category": "ia",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": null,
+      "totpSecret": "Y7TLY66R3SG5H25DH4QZOIFZ7QA5KX34",
       "authDomains": [],
-      "adspowerProfileId": null,
+      "adspowerProfileId": "CHAT GPT 1",
       "createdAt": "2025-12-17T19:06:30.328Z",
-      "updatedAt": "2025-12-19T03:46:08.302Z"
+      "updatedAt": "2025-12-19T21:18:38.426Z"
     }
   ]
 }
