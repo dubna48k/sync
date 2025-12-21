@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-20T20:36:11.644Z",
+  "lastUpdate": "2025-12-21T04:24:54.773Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -23,7 +23,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:34:42.656Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj1zumulqy8hx8x1pgr7ntthkl08k",
@@ -46,7 +46,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-20T18:36:22.200Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -69,7 +69,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-19T21:18:34.882Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj2e1ujeapf8m58ok2aap7okq4xs6i",
@@ -92,7 +92,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T17:45:23.602Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj4qvvnq4kf5dvg0hhbefet1tqgu57",
@@ -115,7 +115,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-20T18:36:46.916Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -138,7 +138,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:35:09.243Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj80scrfyv6hl86t03tt4ej9tyl5m",
@@ -161,7 +161,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:34:09.037Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj8c0750i6b4am261kpmn5nd8t647",
@@ -184,7 +184,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T08:39:54.592Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj8wl55leh7gy8ry3j6s8yiab8zrn",
@@ -207,7 +207,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T18:46:43.941Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
@@ -230,7 +230,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:05:18.306Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mjadsz4mj0tayia6cprwulbwvjiyl",
@@ -253,7 +253,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:06:30.328Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
@@ -276,7 +276,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T03:21:51.512Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj4u4dt8yqhw36y11wn7cgpnu8i9",
@@ -299,7 +299,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T14:51:54.235Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     },
     {
       "id": "mj7sw8rx9n4jlbxpekmuge7oka701j",
@@ -322,7 +322,32 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T14:52:07.074Z",
-      "updatedAt": "2025-12-20T20:36:11.644Z"
+      "updatedAt": "2025-12-21T04:24:54.773Z"
+    },
+    {
+      "id": "mjf83ygm25uaoc6ax5t2ed9dfm2uee",
+      "name": "VEO3",
+      "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-852427814%3A1766291081841621&client_id=365941595420-v51i7q8ik0crmaoltkhuo5ogb1kekl6f.apps.googleusercontent.com&code_challenge=NtthHjySoYBnAMcyeitfokL8LusVq08hMFrRYLbEh_A&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Flabs.google%2Ffx%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faisandbox+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&service=lso&state=p5pRpl4egAAmqRmk5poZiFvQWgs2uTo-piAkHPzMUkM&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP_RQj6tUClROfP37ooal3wLAs56FV_Ck7X0NlkxLgG_iJqhH33UhWEDcXx6sNyaNIpCu3dQrsCh6_-wXNt-T4f9YTDcf2d1WM9K372tzdW9fAk08XTCDOv_g-HNXuWMQtqd8nzCMzpyiWlvhjpXrKIznIzFfBpE9FNgwhGXKg2AY1GsV6yk95LqJoWtaLbOQ9WZV68FOy9GdT2a7Nn3NEzRDQCy8W4TqF-11gRJgKjbKqD9YVDVjbPko3fULzH8WU3HgEM1j-szNOWQpoNyDVX6slva8qYC-2WatSN3WG_RQlDdb_ukeZqh0gXvOlOyjBD_EC4yA6pRs2dBrpeQv14leOutBfsg_DpGdf6njDZRZ143tOHX9o1-3V9ZkLB2_-3gr62VRo6sy0nyEVF9rJvZM_x3Wt7pawDkWPFibCENeAYEpchDusHpyKGh79jQM0gmuHljqBO89qBwp9AMWyzC2mo5g%26flowName%3DGeneralOAuthFlow%26as%3DS-852427814%253A1766291081841621%26client_id%3D365941595420-v51i7q8ik0crmaoltkhuo5ogb1kekl6f.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Flabs.google&rart=ANgoxcehfYaV-k1_g5DbtVs_gUuOh8FpysIFMxVGADANuF36qXbKfNvp6TOGmNM1pLh9FPF1bCOgbCAfm4AWr_gfvlIFB7CwLYStRDydjTfbC6K0ri-RMiQ",
+      "urls": [
+        "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-852427814%3A1766291081841621&client_id=365941595420-v51i7q8ik0crmaoltkhuo5ogb1kekl6f.apps.googleusercontent.com&code_challenge=NtthHjySoYBnAMcyeitfokL8LusVq08hMFrRYLbEh_A&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Flabs.google%2Ffx%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faisandbox+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&service=lso&state=p5pRpl4egAAmqRmk5poZiFvQWgs2uTo-piAkHPzMUkM&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP_RQj6tUClROfP37ooal3wLAs56FV_Ck7X0NlkxLgG_iJqhH33UhWEDcXx6sNyaNIpCu3dQrsCh6_-wXNt-T4f9YTDcf2d1WM9K372tzdW9fAk08XTCDOv_g-HNXuWMQtqd8nzCMzpyiWlvhjpXrKIznIzFfBpE9FNgwhGXKg2AY1GsV6yk95LqJoWtaLbOQ9WZV68FOy9GdT2a7Nn3NEzRDQCy8W4TqF-11gRJgKjbKqD9YVDVjbPko3fULzH8WU3HgEM1j-szNOWQpoNyDVX6slva8qYC-2WatSN3WG_RQlDdb_ukeZqh0gXvOlOyjBD_EC4yA6pRs2dBrpeQv14leOutBfsg_DpGdf6njDZRZ143tOHX9o1-3V9ZkLB2_-3gr62VRo6sy0nyEVF9rJvZM_x3Wt7pawDkWPFibCENeAYEpchDusHpyKGh79jQM0gmuHljqBO89qBwp9AMWyzC2mo5g%26flowName%3DGeneralOAuthFlow%26as%3DS-852427814%253A1766291081841621%26client_id%3D365941595420-v51i7q8ik0crmaoltkhuo5ogb1kekl6f.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Flabs.google&rart=ANgoxcehfYaV-k1_g5DbtVs_gUuOh8FpysIFMxVGADANuF36qXbKfNvp6TOGmNM1pLh9FPF1bCOgbCAfm4AWr_gfvlIFB7CwLYStRDydjTfbC6K0ri-RMiQ"
+      ],
+      "salt": "ea328be12940488185df678353a08910",
+      "encryptedUsername": "5e67e5e13a7237867348afef567762154c99638bc7c6f4acf0e9bcc91c1f82c073425a7791a1bf",
+      "usernameIv": "89dd158b00e89f186dac75c4",
+      "encryptedPassword": "bd71c5c8c1f7f1e9670e05f97b12b2b432888fce6f45b28aca4f87",
+      "passwordIv": "a0d239e4f0e0279e082159a8",
+      "encryptionKey": "3ab3c08f9ad9e016d54afdcb9ecf1ca6ff0beda5f487c2076c2797b2596804a3",
+      "tools": [
+        "accounts"
+      ],
+      "category": "video",
+      "status": "active",
+      "expirationDate": null,
+      "totpSecret": null,
+      "authDomains": [],
+      "adspowerProfileId": "VEO3",
+      "createdAt": "2025-12-21T04:24:48.694Z",
+      "updatedAt": "2025-12-21T04:24:54.773Z"
     }
   ]
 }
