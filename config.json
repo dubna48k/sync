@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-23T00:03:45.035Z",
+  "lastUpdate": "2025-12-23T03:07:36.004Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -25,7 +25,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:22.236Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -50,7 +50,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:07.535Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -75,7 +75,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:15.506Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mj8wl55leh7gy8ry3j6s8yiab8zrn",
@@ -84,11 +84,11 @@
       "urls": [
         "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fgemini.google.com%2F&dsh=S1494132128%3A1765908738002296&ec=GAZAkgU&followup=https%3A%2F%2Fgemini.google.com%2F&ifkv=Ac2yZaXo_9TZGnlwGv__0zNxK6tG8h7maGcEfaZv7wixo8P9ssOzjHMNpiIuxDG6sXtdXGkGkt44&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
       ],
-      "salt": "53fd39fa101046f86a5b79b69245fd7a",
-      "encryptedUsername": "03387237f5e4a3cfaec619a3492f031134c1a1af46426149c9200ed3720a17d8707026c78d818f",
-      "usernameIv": "ff718bc295cc742c47cb7084",
-      "encryptedPassword": "b34d6f98684a29ac979103ceacaa7e615f33d06a5e6e02a9",
-      "passwordIv": "c89c269644b8a2bbe2e35d7d",
+      "salt": "d7410bb850235f0e0eae40b8497ee321",
+      "encryptedUsername": "6b3eb656c3193d8d374202c10b3d8362b8c0aa95cca2cd52e53e10a1630c9b113122f6",
+      "usernameIv": "210410f67c2fb4a247250cf4",
+      "encryptedPassword": "bafd3e778e272d148b93fe61a1b1b686dafeb7b86188b507",
+      "passwordIv": "5e5047a65cb062cd2a04ae3d",
       "encryptionKey": "e8334d3c74b38571dae6cfe6e6faf6f09761026221d8336712d2e3fb0dae8924",
       "tools": [
         "accounts"
@@ -96,11 +96,11 @@
       "category": "ia",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": null,
+      "totpSecret": "DBZP7QIAYZV3G2PVBBHRRNMLDLBNVX6P",
       "authDomains": [],
       "adspowerProfileId": null,
-      "createdAt": "2025-12-22T23:54:30.061Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "createdAt": "2025-12-23T03:07:18.186Z",
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
@@ -123,7 +123,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:05:18.306Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjadsz4mj0tayia6cprwulbwvjiyl",
@@ -146,7 +146,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:06:30.328Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
@@ -169,7 +169,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T03:21:51.512Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjf83ygm25uaoc6ax5t2ed9dfm2uee",
@@ -194,7 +194,7 @@
       "authDomains": [],
       "adspowerProfileId": "VEO3",
       "createdAt": "2025-12-22T00:25:54.378Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjhtf2vlutnr09u9krnx6c2hgpep4r",
@@ -219,7 +219,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 1",
       "createdAt": "2025-12-23T00:03:33.583Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjhtfrdw0bx99oez95no4twgcth4dbm",
@@ -244,7 +244,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 2",
       "createdAt": "2025-12-22T23:57:23.684Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjhtjwlrm7785uxipas839xx31p8b",
@@ -269,7 +269,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 3",
       "createdAt": "2025-12-23T00:03:13.208Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjhtkp2lh6a6ec91wompt9q57dzb5",
@@ -294,7 +294,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 4",
       "createdAt": "2025-12-23T00:01:13.965Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     },
     {
       "id": "mjhtlhitvwxu9wqstm7mugttbdrqx",
@@ -319,7 +319,7 @@
       "authDomains": [],
       "adspowerProfileId": "CAPCUT PRO 5",
       "createdAt": "2025-12-23T00:01:50.837Z",
-      "updatedAt": "2025-12-23T00:03:45.035Z"
+      "updatedAt": "2025-12-23T03:07:36.004Z"
     }
   ]
 }
