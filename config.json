@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-23T03:07:36.004Z",
+  "lastUpdate": "2025-12-28T04:39:12.983Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
@@ -15,17 +15,15 @@
       "encryptedPassword": "448c32ea4e525f373937cf9306ad555330c8e6ba2b24406665125c76a4af0d0f",
       "passwordIv": "ccdada9eb0b9d047c2b6a8a1",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b",
-      "tools": [
-        "Runway"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:22.236Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.983Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -40,17 +38,15 @@
       "encryptedPassword": "93d40ba24e0381e808696b52153bdf3200b36d6358fdd954d5d9b0e5f7",
       "passwordIv": "b84cad3c1fdb8a583e9f7952",
       "encryptionKey": "537dacc6e37d9e89f6a2f2ed6f23646dcbfe532224f1f3f858133c1aae08d2be",
-      "tools": [
-        "Gamma"
-      ],
-      "category": "trabajo",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:07.535Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.983Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -65,17 +61,15 @@
       "encryptedPassword": "fb5da8583cb7c56c7b43b676beec2da822108d360ad88434be4c0f5cc3",
       "passwordIv": "ddda2cdbf0b2a38ecafc4bb3",
       "encryptionKey": "dcc4d79092108018e8da2509d6c4f8e7a0225a838c495f49b9380acdd1571a11",
-      "tools": [
-        "app"
-      ],
-      "category": "ia",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:15.506Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.983Z"
     },
     {
       "id": "mj8wl55leh7gy8ry3j6s8yiab8zrn",
@@ -84,23 +78,23 @@
       "urls": [
         "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fgemini.google.com%2F&dsh=S1494132128%3A1765908738002296&ec=GAZAkgU&followup=https%3A%2F%2Fgemini.google.com%2F&ifkv=Ac2yZaXo_9TZGnlwGv__0zNxK6tG8h7maGcEfaZv7wixo8P9ssOzjHMNpiIuxDG6sXtdXGkGkt44&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
       ],
-      "salt": "d7410bb850235f0e0eae40b8497ee321",
-      "encryptedUsername": "6b3eb656c3193d8d374202c10b3d8362b8c0aa95cca2cd52e53e10a1630c9b113122f6",
-      "usernameIv": "210410f67c2fb4a247250cf4",
-      "encryptedPassword": "bafd3e778e272d148b93fe61a1b1b686dafeb7b86188b507",
-      "passwordIv": "5e5047a65cb062cd2a04ae3d",
+      "salt": "4a4b4d7cb98b2f551234d049755b2461",
+      "encryptedUsername": "ed1a47c5428b6caebfe979b233fe768b595501c1269fdefc2bc44ee0ff289f91a24705",
+      "usernameIv": "58bfc684702c3607b33531f4",
+      "encryptedPassword": "8e103f5f454424e78aaed45b39b195bf23d8ad9f1ae1f04f47956d6ea8aa723b03",
+      "passwordIv": "dc1ce2164b1574144d20cc6e",
       "encryptionKey": "e8334d3c74b38571dae6cfe6e6faf6f09761026221d8336712d2e3fb0dae8924",
       "tools": [
         "accounts"
       ],
-      "category": "ia",
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": "DBZP7QIAYZV3G2PVBBHRRNMLDLBNVX6P",
+      "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
-      "createdAt": "2025-12-23T03:07:18.186Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "createdAt": "2025-12-28T04:39:05.722Z",
+      "updatedAt": "2025-12-28T04:39:12.983Z"
     },
     {
       "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
@@ -123,7 +117,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:05:18.306Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.983Z"
     },
     {
       "id": "mjadsz4mj0tayia6cprwulbwvjiyl",
@@ -146,7 +140,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:06:30.328Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
@@ -169,7 +163,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T03:21:51.512Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjf83ygm25uaoc6ax5t2ed9dfm2uee",
@@ -184,17 +178,15 @@
       "encryptedPassword": "e51522c86fb2c6ff63a278e9e2f06b3d715eaecf06d4233bf727c2",
       "passwordIv": "c2b7bf3a169ffb3f138084a0",
       "encryptionKey": "3ab3c08f9ad9e016d54afdcb9ecf1ca6ff0beda5f487c2076c2797b2596804a3",
-      "tools": [
-        "accounts"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
-      "totpSecret": "YXTPDFEYZDZXZONQSOXDV5XTQPCJ774S",
+      "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "VEO3",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-22T00:25:54.378Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjhtf2vlutnr09u9krnx6c2hgpep4r",
@@ -209,17 +201,15 @@
       "encryptedPassword": "4e3fbb1ee5bb4370c8ac81e6982b741eb22c27d3eccfa3c2",
       "passwordIv": "917af568e8bf0d4b4df20eb8",
       "encryptionKey": "c38d8f6dce6b7eb1b685ccf7e3e17b5fe3e8aaba7982d841452ba252ffc4b4e9",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 1",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:03:33.583Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjhtfrdw0bx99oez95no4twgcth4dbm",
@@ -234,17 +224,15 @@
       "encryptedPassword": "b6415528b0b0676f9eccffe98fe65dc8e506b99d1cc61a4d",
       "passwordIv": "080b8053281780b0bb5f1a77",
       "encryptionKey": "42ce1b78322c2185f35c57d71ac04dfba2b86580f5c2b27f9378c67e5a4c1617",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 2",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:57:23.684Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjhtjwlrm7785uxipas839xx31p8b",
@@ -259,17 +247,15 @@
       "encryptedPassword": "8dafd4ad0a287111021e1a1830056dd2ac4ac1fc38f778fe11859930",
       "passwordIv": "410abc5ffdf194f07f26967a",
       "encryptionKey": "779cdc9db3cf45d96644dfa469f9754879f6f1459c07a83b822fe97639d6985f",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 3",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:03:13.208Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjhtkp2lh6a6ec91wompt9q57dzb5",
@@ -284,17 +270,15 @@
       "encryptedPassword": "9888ec4f1e5a6cc569b930c4bbf1ed072d53f9f71e952bfc",
       "passwordIv": "7bb21e762dc35d5732cf8162",
       "encryptionKey": "9b006465b22b3a4321f383b55cd49bf337c8ad296989dc657b3eeb23b35b4924",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 4",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:01:13.965Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     },
     {
       "id": "mjhtlhitvwxu9wqstm7mugttbdrqx",
@@ -309,17 +293,15 @@
       "encryptedPassword": "4f3e0493eb058051e6efec72825332fc5d2c8045f1d7a40d",
       "passwordIv": "c7b6523048345599bc513979",
       "encryptionKey": "40b66f6d4e7da3fe20f39fe5ec2932b49635fb2eca968b489be8837b733984f7",
-      "tools": [
-        "capcut"
-      ],
-      "category": "video",
+      "tools": [],
+      "category": "otro",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
-      "adspowerProfileId": "CAPCUT PRO 5",
+      "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:01:50.837Z",
-      "updatedAt": "2025-12-23T03:07:36.004Z"
+      "updatedAt": "2025-12-28T04:39:12.984Z"
     }
   ]
 }
