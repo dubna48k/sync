@@ -1,29 +1,31 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2025-12-28T04:51:35.091Z",
+  "lastUpdate": "2025-12-29T03:24:22.843Z",
   "profiles": [
     {
       "id": "mj156t30mo5z8sq05o7ifch3s402qo",
       "name": "runway",
-      "url": "https://app.runwayml.com/v",
+      "url": "https://app.runwayml.com/",
       "urls": [
-        "https://app.runwayml.com/v"
+        "https://app.runwayml.com/"
       ],
-      "salt": "1618ac3be8c9b921cfd96cfa5f3063a2",
-      "encryptedUsername": "244d9336f195a2d6e0bf87674979a5f848910c9d45c246652db8578ad8c79aacf65fd65ce4da18a6a26d17c8d7fd7762",
-      "usernameIv": "0cbeab028de067763141ee61",
-      "encryptedPassword": "448c32ea4e525f373937cf9306ad555330c8e6ba2b24406665125c76a4af0d0f",
-      "passwordIv": "ccdada9eb0b9d047c2b6a8a1",
+      "salt": "fef7c573d3ef8647a5343a12fccb4aec",
+      "encryptedUsername": "ae4a04a3cfdf23c245ca5f92922c9a67de5a2e48766aec761fc6be8a5675cd16ca7049d05c3351fd2b0f8ec23d9107f8",
+      "usernameIv": "47abdd163c33db1fb9d06f44",
+      "encryptedPassword": "e26b0195c484037cb82fd414836b82a9f2db5d2f4c3f208163cf687745469dc0",
+      "passwordIv": "db87b1100245130427d9e997",
       "encryptionKey": "b00bbe98fa4d18eb762951092e509b213419c21f0e22819e66103d5cacf8fb3b",
-      "tools": [],
-      "category": "otro",
+      "tools": [
+        "Runway"
+      ],
+      "category": "video",
       "status": "active",
       "expirationDate": null,
       "totpSecret": null,
       "authDomains": [],
       "adspowerProfileId": null,
-      "createdAt": "2025-12-22T23:54:22.236Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "createdAt": "2025-12-29T03:24:19.599Z",
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mj29hcx206ukecun84wf8pfabvfceg",
@@ -46,7 +48,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:07.535Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mj7wf1t4ngzifg21ntsoi08tm9zh2i",
@@ -69,7 +71,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T23:54:15.506Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mj8wl55leh7gy8ry3j6s8yiab8zrn",
@@ -94,7 +96,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-28T04:39:05.722Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjadqlkaiz5hk3q9jfiesj4vcagzx",
@@ -117,7 +119,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:05:18.306Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjadsz4mj0tayia6cprwulbwvjiyl",
@@ -140,7 +142,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-17T19:06:30.328Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mj7zfsbgwh6ypx1ykj2mai7i2q80d",
@@ -163,7 +165,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-16T03:21:51.512Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjf83ygm25uaoc6ax5t2ed9dfm2uee",
@@ -186,7 +188,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-22T00:25:54.378Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjhtf2vlutnr09u9krnx6c2hgpep4r",
@@ -211,7 +213,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-28T04:50:52.732Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjhtfrdw0bx99oez95no4twgcth4dbm",
@@ -236,7 +238,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-28T04:51:02.393Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjhtjwlrm7785uxipas839xx31p8b",
@@ -261,7 +263,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-28T04:51:30.024Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjhtkp2lh6a6ec91wompt9q57dzb5",
@@ -284,7 +286,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:01:13.965Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     },
     {
       "id": "mjhtlhitvwxu9wqstm7mugttbdrqx",
@@ -307,7 +309,7 @@
       "authDomains": [],
       "adspowerProfileId": null,
       "createdAt": "2025-12-23T00:01:50.837Z",
-      "updatedAt": "2025-12-28T04:51:35.091Z"
+      "updatedAt": "2025-12-29T03:24:22.843Z"
     }
   ]
 }
